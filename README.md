@@ -7,7 +7,7 @@ Use ONLY with root user! The script doesn't support sudo commands.
 If you are not a root user the script will exit on its own.
 
 
-How to run:
+# How to run:
 1. Open a terminal.
 2. git-clone this repository
 3. cd SSH-Service-Hardening
